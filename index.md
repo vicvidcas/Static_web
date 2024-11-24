@@ -4,11 +4,17 @@ Crea y despliega utilizando gh-pages una página web estática hecha con markdow
 
 
 ## Tabla
-- [Otra Página](otra-pagina.md)
-- Imagen:
-  ![Ejemplo](https://via.placeholder.com/150)
 
 | Columna 1 | Columna 2 |
 |-----------|-----------|
 | Dato A    | Dato B    |
 | Dato C    | Dato D    |
+
+## Imágen
+
+  ![Ejemplo](https://via.placeholder.com/150)
+* [Este](https://www.markdownguide.org/basic-syntax/) es un enlace a una web en la que se puede aprender markdown.
+
+## Enlace
+
+- [Otra Página](otra-pagina.md)
