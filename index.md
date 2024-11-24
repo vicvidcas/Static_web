@@ -13,9 +13,9 @@
 
 ## Imágen
 
-  ![Imagen de una rana](/github-light/assets/images/frog100x100.jpg)
+  ![Imagen de una rana](media/ranapng.png)
 
 
 ## Enlace
-  * [Este](http://127.0.0.1:3000/web_convencional.html) es un enlace a mi "portfolio".
+  * [Este](https://vicvidcas.github.io/Portfolio_GP_test/) es un enlace a mi "portfolio".
   * [Este](https://guilleatm.github.io/github-light/markdown-syntax.html#4-enlaces) es un enlace a la web en la que se puede aprender markdown.
