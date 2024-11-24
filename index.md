@@ -1,20 +1,21 @@
 # Static_web
 
-Crea y despliega utilizando gh-pages una página web estática hecha con markdown. Deberá contener, al menos una **tabla**, una **imagen** y un **enlace** que haga referencia a otra de las páginas de nuestra web.
+  Crea y despliega utilizando gh-pages una página web estática hecha con markdown. Deberá contener, al menos una **tabla**, una **imagen** y un **enlace** que haga referencia a otra de las páginas de nuestra web.
 
 
 ## Tabla
 
-| Columna 1 | Columna 2 |
-|-----------|-----------|
-| Dato A    | Dato B    |
-| Dato C    | Dato D    |
+  | Código                                   | Resultado                               |
+  |------------------------------------------|-----------------------------------------|
+  | Soy la primera celda de la tabla!        | Y yo la segunda                         |
+  | Hola hola hola                           | Pues eso, que podemos poner más         |
+
 
 ## Imágen
 
-  ![Ejemplo](https://via.placeholder.com/150)
+  ![Imagen de una rana](/github-light/assets/images/frog100x100.jpg)
 
 
 ## Enlace
 
-* [Este](https://www.markdownguide.org/basic-syntax/) es un enlace a una web en la que se puede aprender markdown.
+  * [Este](https://guilleatm.github.io/github-light/markdown-syntax.html#5-im%C3%A1genes) es un enlace a la web en la que se puede aprender markdown.
