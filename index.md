@@ -18,4 +18,4 @@
 
 ## Enlace
   * [Este](http://127.0.0.1:3000/web_convencional.html) es un enlace a mi "portfolio".
-  * [Este](https://guilleatm.github.io/github-light/markdown-syntax.html#5-im%C3%A1genes) es un enlace a la web en la que se puede aprender markdown.
+  * [Este](https://guilleatm.github.io/github-light/markdown-syntax.html#4-enlaces) es un enlace a la web en la que se puede aprender markdown.
