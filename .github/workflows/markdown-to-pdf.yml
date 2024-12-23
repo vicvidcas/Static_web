@@ -9,15 +9,15 @@ jobs:
     name: Build PDF
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: baileyjm02/markdown-to-pdf@v1
+      - uses: actions/checkout@v3 # Clona el repositorio
+      - uses: baileyjm02/markdown-to-pdf@v1 # Convierte Markdown a PDF
         with:
-          input_path: ./index.md
+          input_path: ./ # Ruta base de los Markdown
           output_dir: pdfs
           images_dir: ./media
           image_import: media 
           build_html: false
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v3 # Subir los PDFs como artifact
         with:
           name: pdfs
           path: pdfs
